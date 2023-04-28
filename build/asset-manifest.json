@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dd8e3fc.css",
+    "main.js": "/static/js/main.6e45129e.js",
+    "static/js/787.fefa05b0.chunk.js": "/static/js/787.fefa05b0.chunk.js",
+    "static/media/jacket.png": "/static/media/jacket.a59e7d89daf412f629d9.png",
+    "static/media/glasses.png": "/static/media/glasses.883971ed6425a62821be.png",
+    "static/media/watch.png": "/static/media/watch.d221c5030da961e8f2bf.png",
+    "static/media/category2.png": "/static/media/category2.f28ac449fa1a14ab130c.png",
+    "static/media/category1.png": "/static/media/category1.354e6eadc3742e0eb632.png",
+    "static/media/category3.png": "/static/media/category3.22ee2c7c01ec89d96073.png",
+    "static/media/category2.webp": "/static/media/category2.9544103f924f3066531c.webp",
+    "static/media/clothes.jpg": "/static/media/clothes.8f31efbca31528dc9523.jpg",
+    "static/media/category6.webp": "/static/media/category6.dc32070acbbdbdc07dc1.webp",
+    "static/media/category5.webp": "/static/media/category5.ed1816ca59bae1a751e8.webp",
+    "static/media/category3.webp": "/static/media/category3.5b0a908ea73c43706cd8.webp",
+    "static/media/category4.webp": "/static/media/category4.f257dfd9e1dca603cbe0.webp",
+    "static/media/category1.webp": "/static/media/category1.8d02dfd9c236e80cfdd9.webp",
+    "index.html": "/index.html",
+    "main.0dd8e3fc.css.map": "/static/css/main.0dd8e3fc.css.map",
+    "main.6e45129e.js.map": "/static/js/main.6e45129e.js.map",
+    "787.fefa05b0.chunk.js.map": "/static/js/787.fefa05b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd8e3fc.css",
+    "static/js/main.6e45129e.js"
+  ]
+}
